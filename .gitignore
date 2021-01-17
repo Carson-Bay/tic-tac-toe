@@ -1,6 +1,7 @@
 /.idea/
 /*.xml
 /*.iml
+/testing.py
 
 
 # Byte-compiled / optimized / DLL files
